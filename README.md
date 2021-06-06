@@ -1,2 +1,2 @@
 <h1 align="center">luxe#1270
-(https://komarev.com/ghpvc/?username=VissiinLuxe&color=blueviolet)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VISSIINLUXE" alt="luxe" /></p>
