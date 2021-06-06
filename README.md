@@ -3,6 +3,11 @@
 
   -------------
   
+  
+<h3 align="center" style="margin-top: -36px;">
+    <span style="font-family: 'Impact';">Stats</span>
+</h3>
+  
    <a align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissiinLuxe&layout=compact&theme=omni" />
 </a>
