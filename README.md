@@ -12,7 +12,7 @@
 </a>
   
     
-<img align="right" height="400px" alt="GIF" src="https://cdn.discordapp.com/attachments/834355690663313421/851162478406926386/1_169.gif" /> 
+<img align="right" height="405px" alt="GIF" src="https://cdn.discordapp.com/attachments/834355690663313421/851199109360517130/1_92.gif" /> 
     
   <p align="left"><img src="https://komarev.com/ghpvc/?username=VISSIINLUXE" alt="luxe" /></p>
 
