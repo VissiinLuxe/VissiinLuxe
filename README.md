@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <h6 style="margin-top: -17px; font-size: 13px;" align="center">luxe#1270</h6>
+  <h6 style="margin-top: -26px; font-size: 23px;" align="center">luxe#1270</h6>
 
  -----
   
