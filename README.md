@@ -5,10 +5,10 @@
   
   <div style="display: flex; margin-top: -32px;">
    <a align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissiinLuxe&layout=compact&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissiinLuxe&layout=compact&theme=material-palenight" />
 </a>
 <a align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VissiinLuxe&show_icons=true&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VissiinLuxe&show_icons=true&theme=material-palenight" />
 </a>
   
     
