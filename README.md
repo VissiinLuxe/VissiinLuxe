@@ -11,5 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VissiinLuxe&show_icons=true&theme=omni" />
 </a>
   
+    
+     <img style="margin-left: 7px;" height="40" src="https://cdn.discordapp.com/attachments/834355690663313421/851162478406926386/1_169.gif">
+    
+    
   <p align="left"><img src="https://komarev.com/ghpvc/?username=VISSIINLUXE" alt="luxe" /></p>
 
+ 
