@@ -1,4 +1,5 @@
-<h1 align="right">luxe#1270
+<h1 align="center">
+    <h6 luxe#1270 </h6> 
 
   
    <a align="center">
