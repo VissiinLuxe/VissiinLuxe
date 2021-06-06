@@ -1,13 +1,7 @@
 <h1 align="center"> 
   <h6 style="margin-top: -17px; font-size: 13px;" align="center">luxe#1270</h6>
 
-  -------------
-  
-  
-<h3 align="center" style="margin-top: -36px;">
-    <span style="font-family: 'Impact';">Stats</span>
-</h3>
-  
+ -----
    <a align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VissiinLuxe&layout=compact&theme=omni" />
 </a>
