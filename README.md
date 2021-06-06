@@ -1,4 +1,4 @@
-<h1 align="center">luxe#1270
+<h1 align="right">luxe#1270
 
   
    <a align="center">
