@@ -16,10 +16,4 @@
     
   <p align="left"><img src="https://komarev.com/ghpvc/?username=VISSIINLUXE&color=806fa1" alt="luxe" /></p>
     
-   <h3 align="center" style="margin-top: -52px;">
-  <span style="font-family: 'Lucida Console';">Languages and Tools</span>
-    
-    <p align="center" style="display: flex;margin: auto;width: 70%;">
-    <img style="margin-left: 7px;" height="40" src="http://www.lua.org/images/luaa.gif">
- </p>
- 
+
