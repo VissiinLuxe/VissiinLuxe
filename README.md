@@ -18,6 +18,6 @@
     
 
 <p align="center" style="display: flex;margin: auto;width: 70%;">
-    <img style="margin-left: 7px;" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
-    <img style="margin-left: 7px;" height="40" src="https://i.pinimg.com/originals/a2/7d/14/a27d14a27b5ef7d35c241d5cc9c1deb4.png">
+    <img style="margin-left: 11px;" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+    <img style="margin-left: 11px;" height="40" src="https://i.pinimg.com/originals/a2/7d/14/a27d14a27b5ef7d35c241d5cc9c1deb4.png">
   </p>
