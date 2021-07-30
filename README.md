@@ -18,5 +18,5 @@
     
 
 <p align="center" style="display: flex;margin: auto;width: 70%;">
-    <img style="margin-left: 11px;" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+    <img style="margin-left: 33px;" height="90" src="https://cdn.discordapp.com/attachments/834355690663313421/870618780320030750/1_379.jpeg">
   </p>
